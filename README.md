@@ -9,4 +9,4 @@ This is a startup
 # Objectives
 
 # Results
-[image](https://github.com/Sujana1996/Wolt-Startup/blob/main/Screenshot%202021-07-01%20at%203.00.39%20PM.png)
+![image](https://github.com/Sujana1996/Wolt-Startup/blob/main/Screenshot%202021-07-01%20at%203.00.39%20PM.png)
