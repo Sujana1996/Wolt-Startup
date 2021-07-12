@@ -7,7 +7,8 @@ Wolt is a Helsinki-based online ordering and delivery company that initially foc
 
 
 # Objectives
-The main objective of this assignment was to explore the reasons for the unpopularity of the Wolt start-up application. This analysis examines the factors affecting the popularity of the Wolt application and finally suggests a marketing strategy for the company to improve sales and gain more visibility. ![image](https://user-images.githubusercontent.com/86486235/125285452-f2f92080-e31a-11eb-9e49-7f44456ba723.png)
+The fundamental goal of this task was to explore the purposes behind the unpopularity of the Wolt start-up application. This analysis looks at the factors that influences the popularity of the Wolt application and proposes a marketing strategy for the company to further increase sales and gain more visibility. ![image](https://user-images.githubusercontent.com/86486235/125285930-7ca8ee00-e31b-11eb-8b29-91661b1aa481.png)
+
 
 # Results
 ![image](https://github.com/Sujana1996/Wolt-Startup/blob/main/Screenshot%202021-07-01%20at%203.00.39%20PM.png)
